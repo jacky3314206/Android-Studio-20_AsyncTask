@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="Hw20_title">AsyncTask 用法</string>
+    <string name="Hw20_Loading">Loading</string>
+</resources>
